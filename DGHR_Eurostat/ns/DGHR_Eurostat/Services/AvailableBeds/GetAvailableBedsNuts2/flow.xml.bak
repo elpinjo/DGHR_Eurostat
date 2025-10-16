@@ -37,6 +37,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -54,6 +55,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -159,6 +161,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -175,6 +178,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -221,6 +225,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -237,6 +242,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -359,6 +365,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -376,6 +383,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -421,6 +429,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -438,6 +447,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -544,6 +554,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -561,6 +572,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -607,6 +619,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -624,6 +637,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -717,6 +731,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -734,6 +749,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -780,6 +796,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -797,6 +814,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -1066,6 +1084,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -1083,6 +1102,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -1176,6 +1196,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -1204,6 +1225,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -1715,6 +1737,7 @@
         <value name="field_name">geo</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -1732,6 +1755,7 @@
         <value name="field_name">time</value>
         <value name="field_type">string</value>
         <value name="field_dim">1</value>
+        <value name="field_opt">true</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>

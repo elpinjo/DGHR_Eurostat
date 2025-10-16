@@ -97,7 +97,7 @@
           <value name="is_soap_array_encoding_used">false</value>
           <value name="rec_closed">true</value>
           <value name="modifiable">true</value>
-          <value name="rec_ref">Documents:AvailableBeds</value>
+          <value name="rec_ref">DGHR_Eurostat.Documents:AvailableBeds</value>
         </record>
         <record javaclass="com.wm.util.Values">
           <value name="node_type">record</value>

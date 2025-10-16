@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<FLOW VERSION="3.1" CLEANUP="true">
+<FLOW VERSION="3.0" CLEANUP="true">
   <COMMENT>Process Filters</COMMENT>
 
   <!-- nodes -->

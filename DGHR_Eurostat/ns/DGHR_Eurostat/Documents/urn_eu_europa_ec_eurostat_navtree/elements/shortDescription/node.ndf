@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="record" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="node_nsName">DGHR_Eurostat.Documents.urn_eu_europa_ec_eurostat_navtree.elements:shortDescription</value>
+    <value name="node_pkg">DGHR_Eurostat</value>
+    <value name="is_public">false</value>
+    <value name="field_name">shortDescription</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="wrapper_type">XmlData</value>
+    <value name="nillable">false</value>
+    <value name="field_xmlns">urn:eu.europa.ec.eurostat.navtree</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+    <value name="schemaDomain">cc89512f4e6743149a8b9387403eff33</value>
+    <value name="docTypeDomain">cc89512f4e6743149a8b9387403eff33</value>
+    <value name="originURI">file:///C:\Users\JanvanderLugt\OneDrive - IBM\Documents\Customers\EU\DG HERA\Poc Assets\UC3\TableOfContent.xsd</value>
+    <value name="field_min">1</value>
+    <value name="field_max">1</value>
+    <value name="field_enhanced">true</value>
+    <value name="field_is_attribute">false</value>
+    <value name="field_is_text">false</value>
+    <value name="field_is_xml_content">true</value>
+    <value name="any_mode">0</value>
+    <value name="role">1</value>
+    <value name="any_mode_uris"></value>
+    <value name="any_mode_qnames"></value>
+    <value name="process">0</value>
+    <array name="rec_fields" type="record" depth="1">
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">record</value>
+        <value name="node_subtype">unknown</value>
+        <value name="is_public">false</value>
+        <value name="field_name">shortDescription</value>
+        <value name="field_type">record</value>
+        <value name="field_dim">0</value>
+        <value name="wrapper_type">XmlData</value>
+        <value name="nillable">false</value>
+        <value name="field_xmlns">urn:eu.europa.ec.eurostat.navtree</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+        <value name="schemaDomain">cc89512f4e6743149a8b9387403eff33</value>
+        <value name="docTypeDomain">cc89512f4e6743149a8b9387403eff33</value>
+        <value name="originURI">file:///C:\Users\JanvanderLugt\OneDrive - IBM\Documents\Customers\EU\DG HERA\Poc Assets\UC3\TableOfContent.xsd</value>
+        <value name="field_min">1</value>
+        <value name="field_max">1</value>
+        <value name="field_enhanced">true</value>
+        <value name="field_is_attribute">false</value>
+        <value name="field_is_text">false</value>
+        <value name="field_is_xml_content">true</value>
+        <value name="any_mode">0</value>
+        <value name="role">1</value>
+        <value name="any_mode_uris"></value>
+        <value name="any_mode_qnames"></value>
+        <value name="process">0</value>
+        <array name="rec_fields" type="record" depth="1">
+          <record javaclass="com.wm.util.Values">
+            <value name="node_type">record</value>
+            <value name="node_subtype">unknown</value>
+            <value name="is_public">false</value>
+            <value name="field_name">*attributes</value>
+            <value name="field_type">record</value>
+            <value name="field_dim">0</value>
+            <value name="wrapper_type">XmlData</value>
+            <value name="nillable">false</value>
+            <value name="form_qualified">false</value>
+            <value name="is_global">false</value>
+            <value name="schemaDomain">cc89512f4e6743149a8b9387403eff33</value>
+            <value name="docTypeDomain">cc89512f4e6743149a8b9387403eff33</value>
+            <value name="originURI">file:///C:\Users\JanvanderLugt\OneDrive - IBM\Documents\Customers\EU\DG HERA\Poc Assets\UC3\TableOfContent.xsd</value>
+            <value name="field_min">1</value>
+            <value name="field_max">1</value>
+            <value name="field_enhanced">true</value>
+            <value name="field_is_attribute">false</value>
+            <value name="field_is_text">false</value>
+            <value name="field_is_xml_content">true</value>
+            <value name="any_mode">0</value>
+            <value name="role">12</value>
+            <value name="any_mode_uris"></value>
+            <value name="any_mode_qnames"></value>
+            <value name="process">0</value>
+            <array name="rec_fields" type="record" depth="1">
+              <record javaclass="com.wm.util.Values">
+                <value name="node_type">field</value>
+                <value name="node_subtype">unknown</value>
+                <value name="is_public">false</value>
+                <value name="field_name">language</value>
+                <value name="field_type">string</value>
+                <value name="field_dim">0</value>
+                <record name="field_content_type" javaclass="com.wm.util.Values">
+                  <value name="contentType">1</value>
+                  <value name="internalType">reference</value>
+                  <value name="dataTypeVersion">dtVersion2</value>
+                  <array name="targetNames" type="record" depth="1">
+                    <record javaclass="com.wm.util.Values">
+                      <value name="xmlns">urn:eu.europa.ec.eurostat.navtree</value>
+                      <value name="ncName">language</value>
+                    </record>
+                  </array>
+                  <value name="schemaDomain">cc89512f4e6743149a8b9387403eff33</value>
+                </record>
+                <value name="nillable">false</value>
+                <value name="form_qualified">false</value>
+                <value name="is_global">false</value>
+                <value name="schemaDomain">cc89512f4e6743149a8b9387403eff33</value>
+                <value name="docTypeDomain">cc89512f4e6743149a8b9387403eff33</value>
+                <value name="originURI">file:///C:\Users\JanvanderLugt\OneDrive - IBM\Documents\Customers\EU\DG HERA\Poc Assets\UC3\TableOfContent.xsd</value>
+                <value name="field_min">1</value>
+                <value name="field_max">1</value>
+                <value name="field_enhanced">true</value>
+                <value name="field_is_attribute">true</value>
+                <value name="field_is_text">false</value>
+                <value name="field_is_xml_content">true</value>
+                <value name="any_mode">0</value>
+                <value name="role">5</value>
+                <value name="any_mode_uris"></value>
+                <value name="any_mode_qnames"></value>
+                <value name="process">0</value>
+              </record>
+            </array>
+            <value name="modifiable">false</value>
+            <value name="modelType">7</value>
+            <value name="preserveText">false</value>
+            <value name="namedText">false</value>
+            <value name="leadingText">false</value>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="node_type">field</value>
+            <value name="node_subtype">unknown</value>
+            <value name="is_public">false</value>
+            <value name="field_name">*simple</value>
+            <value name="field_type">string</value>
+            <value name="field_dim">0</value>
+            <value name="nillable">false</value>
+            <value name="form_qualified">false</value>
+            <value name="is_global">false</value>
+            <value name="schemaDomain">cc89512f4e6743149a8b9387403eff33</value>
+            <value name="docTypeDomain">cc89512f4e6743149a8b9387403eff33</value>
+            <value name="originURI">file:///C:\Users\JanvanderLugt\OneDrive - IBM\Documents\Customers\EU\DG HERA\Poc Assets\UC3\TableOfContent.xsd</value>
+            <value name="field_min">1</value>
+            <value name="field_max">1</value>
+            <value name="field_enhanced">true</value>
+            <value name="field_is_attribute">false</value>
+            <value name="field_is_text">false</value>
+            <value name="field_is_xml_content">true</value>
+            <value name="any_mode">0</value>
+            <value name="role">8</value>
+            <value name="any_mode_uris"></value>
+            <value name="any_mode_qnames"></value>
+            <value name="process">0</value>
+          </record>
+        </array>
+        <value name="wrappedElement">true</value>
+        <value name="modifiable">false</value>
+        <value name="modelType">6</value>
+        <value name="preserveText">false</value>
+        <value name="namedText">false</value>
+        <value name="leadingText">false</value>
+      </record>
+    </array>
+    <value name="elementWrapper">true</value>
+    <value name="modifiable">false</value>
+    <value name="modelType">0</value>
+    <value name="preserveText">false</value>
+    <value name="namedText">false</value>
+    <value name="leadingText">false</value>
+  </record>
+</Values>

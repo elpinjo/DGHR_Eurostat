@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<FLOW VERSION="3.1" CLEANUP="true">
+<FLOW VERSION="3.0" CLEANUP="true">
   <COMMENT>Init Size</COMMENT>
 
   <!-- nodes -->
@@ -63,7 +63,7 @@
         <value name="is_global">false</value>
         <value name="is_soap_array_encoding_used">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
     </array>
     <value name="modifiable">true</value>
@@ -111,7 +111,7 @@
 </DATA>
 </MAPSET>
 
-<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/field;4;1;Documents:Field/name;1;0">
+<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/field;4;1;DGHR_Eurostat.Documents:Field/name;1;0">
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
@@ -445,7 +445,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">unknown</value>
@@ -548,7 +548,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">field</value>
@@ -686,7 +686,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
     </array>
     <value name="modifiable">true</value>
@@ -770,7 +770,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">unknown</value>
@@ -815,7 +815,7 @@
 </MAP>
 </MAPINVOKE>
 
-<MAPCOPY FROM="/sizeStr;1;0" TO="/field;4;0;Documents:Field/size;1;0">
+<MAPCOPY FROM="/sizeStr;1;0" TO="/field;4;0;DGHR_Eurostat.Documents:Field/size;1;0">
 </MAPCOPY>
 </MAP>
 </LOOP>
@@ -918,7 +918,7 @@
         <value name="is_global">false</value>
         <value name="is_soap_array_encoding_used">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">unknown</value>
@@ -1013,7 +1013,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
     </array>
     <value name="modifiable">true</value>
@@ -1284,7 +1284,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">unknown</value>
@@ -1305,7 +1305,7 @@
 
   <!-- nodes -->
 
-<MAPCOPY FROM="/document;2;0/id;1;0" TO="/field;4;0;Documents:Field/name;1;0">
+<MAPCOPY FROM="/document;2;0/id;1;0" TO="/field;4;0;DGHR_Eurostat.Documents:Field/name;1;0">
 </MAPCOPY>
 </MAP>
 </LOOP>
@@ -1637,7 +1637,7 @@
         <value name="is_global">false</value>
         <value name="is_soap_array_encoding_used">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
     </array>
     <value name="modifiable">true</value>
@@ -1739,7 +1739,7 @@
         <value name="is_global">false</value>
         <value name="is_soap_array_encoding_used">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -1894,7 +1894,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -1981,7 +1981,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -2041,7 +2041,7 @@
 
   <!-- nodes -->
 
-<MAPCOPY FROM="/dimension;2;0/dimension;2;0/label;1;0" TO="/field;4;0;Documents:Field/description;1;0">
+<MAPCOPY FROM="/dimension;2;0/dimension;2;0/label;1;0" TO="/field;4;0;DGHR_Eurostat.Documents:Field/description;1;0">
 </MAPCOPY>
 </MAP>
 
@@ -2172,7 +2172,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -2382,7 +2382,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -2562,7 +2562,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -2611,7 +2611,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
     </array>
     <value name="modifiable">true</value>
@@ -2695,7 +2695,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -2755,7 +2755,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">unknown</value>
@@ -2776,7 +2776,7 @@
 
   <!-- nodes -->
 
-<MAPCOPY FROM="/index;2;0/index;1;0" TO="/field(0);4;0;Documents:Field/category;2;0/index;1;0">
+<MAPCOPY FROM="/index;2;0/index;1;0" TO="/field(0);4;0;DGHR_Eurostat.Documents:Field/category;2;0/index;1;0">
 </MAPCOPY>
 </MAP>
 </LOOP>
@@ -2919,7 +2919,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -3036,7 +3036,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">unknown</value>
@@ -3179,7 +3179,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -3229,7 +3229,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -3395,7 +3395,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -3445,7 +3445,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -3480,7 +3480,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
     </array>
     <value name="modifiable">true</value>
@@ -3564,7 +3564,7 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -3614,7 +3614,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -3660,7 +3660,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">unknown</value>
@@ -3681,7 +3681,7 @@
 
   <!-- nodes -->
 
-<MAPCOPY FROM="/label;2;0/label;1;0" TO="/field(0);4;0;Documents:Field/category;2;0/label;1;0">
+<MAPCOPY FROM="/label;2;0/label;1;0" TO="/field(0);4;0;DGHR_Eurostat.Documents:Field/category;2;0/label;1;0">
 </MAPCOPY>
 </MAP>
 </LOOP>
@@ -3721,7 +3721,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -4035,7 +4035,7 @@
         <value name="is_global">false</value>
         <value name="is_soap_array_encoding_used">false</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -4111,7 +4111,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -4158,7 +4158,7 @@
         <value name="is_soap_array_encoding_used">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">Documents:Field</value>
+        <value name="rec_ref">DGHR_Eurostat.Documents:Field</value>
       </record>
     </array>
     <value name="modifiable">true</value>
@@ -4189,10 +4189,10 @@
 <MAPDELETE FIELD="/label;2;1">
 </MAPDELETE>
 
-<MAPDELETE FIELD="/field(0);4;1;Documents:Field">
+<MAPDELETE FIELD="/field(0);4;1;DGHR_Eurostat.Documents:Field">
 </MAPDELETE>
 
-<MAPDELETE FIELD="/field(1);4;1;Documents:Field">
+<MAPDELETE FIELD="/field(1);4;1;DGHR_Eurostat.Documents:Field">
 </MAPDELETE>
 </MAP>
 </FLOW>
