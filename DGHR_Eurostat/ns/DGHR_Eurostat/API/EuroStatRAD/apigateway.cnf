@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<IDataXMLCoder version="1.0">
-  <record javaclass="com.wm.data.ISMemDataImpl">
-    <value name="http://172.31.103.190:25555">80307fba-a2f3-4e9c-89fb-c2430ac84b4a</value>
-  </record>
-</IDataXMLCoder>
