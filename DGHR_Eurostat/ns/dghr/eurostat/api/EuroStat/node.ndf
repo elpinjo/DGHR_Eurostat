@@ -41,7 +41,7 @@
   <value name="resourceName">EuroStat</value>
   <Boolean name="modifiable">true</Boolean>
   <null name="srcdoctypename"/>
-  <value name="assocdoctypename">DGHR_Eurostat.api.EuroStat_.docTypes:EuroStat</value>
+  <value name="assocdoctypename">dghr.eurostat.api.EuroStat_.docTypes:EuroStat</value>
   <Boolean name="isjsonapi">false</Boolean>
   <array name="attributes" type="record" depth="1">
   </array>
