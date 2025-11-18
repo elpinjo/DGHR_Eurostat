@@ -7,6 +7,12 @@
   <value name="node_pkg">DGHR_Eurostat</value>
   <value name="node_comment"></value>
   <value name="is_public">false</value>
+  <value name="displayName"></value>
+  <value name="favorite"></value>
+  <value name="tags"></value>
+  <value name="since"></value>
+  <value name="deprecated"></value>
+  <value name="is_visible"></value>
   <record name="restResource" javaclass="com.wm.util.Values">
     <value name="resourceName">EuroStat</value>
     <value name="nsName">dghr.eurostat.api:EuroStat</value>
